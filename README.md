@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @SeineAle
-- 👀 I’m interested in every code ever written
-- 🌱 I’m currently learning FullStack Development
-- 📫 How to reach me ... paras.jain.real@gmail.com
-- 😄 Pronouns: ............... !?
+# 👋 Hi, I’m @SeineAle - (Paras Jain)
 
-<!---
-SeineAle/SeineAle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in every code ever written
+- 😄 I love Competitive Programming
+- 🌱 I’m currently learning FullStack Development
+- 📫 How to reach me: [paras.jain.real@gmail.com](mailto:paras.jain.real@gmail.com)
+
+## 💻 Competitive Programming Profiles
+
+- 🌟 [LeetCode](https://leetcode.com/u/SeineAle/)
+- 🏅 [Codeforces](https://codeforces.com/profile/SeineAle)
+- 🍲 [CodeChef](https://www.codechef.com/users/seineale)
+
