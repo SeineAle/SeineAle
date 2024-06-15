@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeineAle
 - 👀 I’m interested in every code ever written
 - 🌱 I’m currently learning FullStack Development
-- 📫 How to reach me ... paras.ain.real@gmail.com
+- 📫 How to reach me ... paras.jain.real@gmail.com
 - 😄 Pronouns: ............... !?
 
 <!---
